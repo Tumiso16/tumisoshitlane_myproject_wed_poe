@@ -1,1 +1,249 @@
-*
+*BEAN & BREW
+•	Full Name: Tumiso Shitlane
+•	Student Number: ST10444235
+•	Group: Year 1 Group 4
+•	Lecturer: Deogratias Phiri
+•	Date: 14 August 2026
+ 
+1. Organisation Overview
+1.1 Name
+BEAN & BREW
+1.2 Brief History
+BEAN & BREW is a newly established business created to provide customers with high-quality coffee, fresh food, and a comfortable environment where they can relax and socialise. The idea was developed from the growing demand for convenient and welcoming spaces where people can enjoy good coffee and spend time with friends, family, or colleagues. As a new organisation, the coffee shop aims to build a strong reputation through quality products, friendly customer service, and a positive customer experience. In the future, the business plans to grow its customer base and become a recognised coffee shop within the local community.
+
+1.3 Mission and Vision
+•	This coffee shop offers different types of hot  drinks and cakes but it has expanded and offers cold drinks e.g iced coffees, matchas etc. It caters for any and everyone.
+
+•	Vision:
+To become a welcoming and trusted coffee shop where customers can enjoy high-quality coffee, delicious food, and a comfortable atmosphere while creating memorable experiences.
+•	Mission:
+Our mission is to provide customers with excellent coffee, quality products, friendly service, and a relaxing environment. We aim to build strong relationships with our customers and contribute positively to the local community.
+•	
+1.4 Target Audience
+•	Students- looking for a comfortable place to study, use wifi and enjoy affordable drinks and snacks.
+•	Working professionals- needing quality coffee before work, during breaks or a quiet place for meetings or remote work
+2. Website Goals and Objectives
+2.1 Specific Goals
+
+
+•	Promote the business by showcasing the coffee shop, its brand and what makes it unique.
+•	Increase sales by allowing customers to view the menu and place online orders.
+•	Provide important information such as operating hours, location, contact details and pricing.
+2.2 Key Performance Indicators (KPIs)
+•	Returning visitors- Percentage of users who return to the website
+•	Online orders- Number of online orders placed through the website
+•	Customer enquiries- Number of contact from enquiries 
+3. Current Website Analysis
+The proposed coffee shop does not currently have an existing website or active social media page because it is a new business concept. Therefore, BEAN & BRW, a South African speciality coffee shop, can be used as a proxy for comparison. Its website promotes the coffee shop's atmosphere, speciality coffee, food and beverages, and provides basic contact information. 
+
+3.1 Strengths
+High quality coffee and food offerings
+Strong customer service and loyalty programmes
+3.2 Weaknesses
+Limited recognition if the business is new
+Higher operating costs
+3.3 Opportunities for Improvement
+•	The website creates an online presence where customers can learn about the coffee shop, it’s story, products and unique features.
+
+4. Proposed Website Features and Functionality
+Homepage
+The homepage should create a strong first impression by showcasing the coffee shop’s brand and inviting atmosphere.
+Hero Section:
+•	A high-quality image or video of the coffee shop, coffee beverages, and food items. 
+•	A short slogan, for example: “Freshly Brewed Coffee and Delicious Treats Every Day.” 
+•	Brief introduction to the coffee shop and its unique offerings. 
+Primary Call-to-Action (CTA):
+•	View Menu 
+•	Order Online 
+•	Book a Table 
+•	Contact Us
+
+About Us
+This page should provide information about the coffee shop and build trust with customers.
+The page should cover:
+•	The history and background of the coffee shop. 
+•	The mission and vision of the business. 
+•	The values of the organisation, such as quality, customer service, and community involvement. 
+•	Information about coffee sourcing and ingredients. 
+•	Introduction to the team or owners. 
+•	Images of the shop environment to create a personal connection with customers.
+
+Services/Products
+Products and services should be displayed in a clear and organised manner.
+Presentation Methods:
+•	Categories: 
+o	Hot Beverages (Coffee, Tea, Hot Chocolate) 
+o	Cold Beverages 
+o	Pastries and Desserts 
+o	Breakfast and Light Meals 
+o	Specialty Drinks 
+•	Product Information: 
+o	Product name 
+o	Description 
+o	Price 
+o	Image 
+o	Availability
+Enquiry Page
+The enquiry page should allow customers to communicate easily with the coffee shop.
+Form Fields:
+•	Full Name 
+•	Email Address 
+•	Phone Number 
+•	Subject 
+•	Message 
+Special Options:
+•	General Enquiry 
+•	Catering Requests 
+•	Event Bookings 
+•	Feedback or Complaints 
+•	Partnership Opportunities
+
+
+5. Design and User Experience
+5.1 Colour Scheme
+1. Dark Brown(#4B2E2B) – Represents coffee and creates a warm, cosy and welcoming feeling.
+2. Cream (#F5EBDD) – Gives the website a clean, soft background and creates a relaxed atmosphere.
+3. Caramel (#C68B59) – Add warmth and can be used for buttons, highlights and important sections to make them stand out.
+5.2 Typography
+Heading Font
+Playfair Display – Suitable because it has an elegant and stylish appearance, giving the coffee shop website a premium and welcoming feel.
+Body Font
+Poppins – Suitable because it is clean, modern and easy to read, making it ideal for paragraphs, menus and general website information.
+
+5.3 Layout and Design Approach
+The website will have a warm, cosy and welcoming look and feel that reflects the atmosphere of a coffee shop. The brown, cream and caramel colour scheme will create a natural and comfortable appearance. Elegant headings combined with clean, readable body text will give the website a modern yet professional feel.
+5.4 User Experience Considerations
+•	The website will use simple and clear navigation so visitors cam quickly find important pages such as the Home, About Us, Menu, and Contact pages. The layout will be clean an organised with the coffee shops products and main call-to-action clearly visible so customers can easily view the menu and make an enquiry or visit the shop.
+5.5 Sitemap
+
+                    HOME
+                     |
+       ┌─────────────┼─────────────┐
+       |             |             |
+    ABOUT US       MENU         CONTACT
+       |             |             |
+   Our Story     ┌───┼───┐     Enquiry Form
+   Our Values    |   |   |     Location
+                 |   |   |     Opening Hours
+              Coffee Food Drinks
+5.6 Low-Fidelity Wireframes
+
+┌──────────────────────────────────────────────┐
+│ LOGO       HOME  ABOUT  MENU  CONTACT        │
+├──────────────────────────────────────────────┤
+│                                              │
+│              [ HERO IMAGE ]                  │
+│                                              │
+│        FRESH COFFEE, GOOD MOMENTS            │
+│        Short introduction to shop            │
+│                                              │
+│             [ VIEW MENU ]                    │
+│                                              │
+├──────────────────────────────────────────────┤
+│              FEATURED PRODUCTS               │
+│                                              │
+│   [Coffee Image] [Food Image] [Drink Image]  │
+│   Coffee          Pastry        Cold Drink   │
+│   R45             R30           R35          │
+│                                              │
+├──────────────────────────────────────────────┤
+│              CUSTOMER REVIEWS                │
+│                                              │
+├──────────────────────────────────────────────┤
+│ FOOTER: Contact | Location | Social Media    │
+┌──────────────────────────────────────────────┐
+│ LOGO       HOME  ABOUT  MENU  CONTACT        │
+├──────────────────────────────────────────────┤
+│                 ABOUT US                     │
+│                                              │
+│              [ SHOP IMAGE ]                  │
+│                                              │
+│  Our Story                                   │
+│  Short description about the coffee shop.    │
+│                                              │
+│  Our Vision                                  │
+│  Vision statement.                            │
+│                                              │
+│  Our Mission                                 │
+│  Mission statement.                           │
+│                                              │
+│  Our Values                                  │
+│  Quality | Service | Community               │
+├──────────────────────────────────────────────┤
+│ FOOTER                                       │
+└──────────────────────────────────────────────┘┌──────────────────────────────────────────────┐
+│ LOGO       HOME  ABOUT  MENU  CONTACT        │
+├──────────────────────────────────────────────┤
+│                  OUR MENU                    │
+│                                              │
+│  [ COFFEE ] [ FOOD ] [ DRINKS ] [ DESSERTS ]│
+│                                              │
+│  ┌────────────┐  ┌────────────┐              │
+│  │ [ IMAGE ]  │  │ [ IMAGE ]  │              │
+│  │ Cappuccino │  │ Latte      │              │
+│  │ R40        │  │ R42        │              │
+│  └────────────┘  └────────────┘              │
+│                                              │
+│  ┌────────────┐  ┌────────────┐              │
+│  │ [ IMAGE ]  │  │ [ IMAGE ]  │              │
+│  │ Muffin     │  │ Cheesecake │              │
+│  │ R30        │  │ R45        │              │
+│  └────────────┘  └────────────┘              │
+├──────────────────────────────────────────────┤
+│ FOOTER                                       │
+└──────────────────────────────────────────────┘┌──────────────────────────────────────────────┐
+│ LOGO       HOME  ABOUT  MENU  CONTACT        │
+├──────────────────────────────────────────────┤
+│              CONTACT US                      │
+│                                              │
+│  GET IN TOUCH          ENQUIRY FORM          │
+│  ─────────────         ────────────          │
+│  📍 Location           Full Name:            │
+│  📞 Phone              [____________]        │
+│  ✉ Email               Email:                │
+│  🕐 Opening Hours      [____________]        │
+│                        Subject:              │
+│                        [____________]        │
+│                        Message:              │
+│                        [____________]        │
+│                        [____________]        │
+│                                              │
+│                        [ SUBMIT ]             │
+├──────────────────────────────────────────────┤
+│ FOOTER                                       │
+└──────────────────────────────────────────────┘
+6. Technical Requirements
+6.1 Hosting and Domain
+•	Proposed domain name: www.brewandbean.co.za
+This is suitable because it is short, memorable, and clearly relates to a coffee business. The .co.za extension also makes it appropriate for a South African business.
+•	Hosting provider/type: Webtech – Basic Linux Hosting
+Webtech offers shared Linux hosting for approximately R99 per month and includes a free .co.za domain, 5 GB storage, SSL, databases and email accounts. This would be suitable for a small coffee shop website because it provides enough resources for pages such as the home page, menu, about us, contact page and enquiry form. 
+Approximate annual cost: R99 × 12 = R1,188 per year, with the .co.za domain included.
+
+6.2	Languages and Frameworks
+•  HTML: Creates the website's content and structure. 
+•	CSS: Styles the website, including colours, fonts, spacing and layout.
+7. Timeline and Milestones
+[ Fill in target dates that follow your module's submission schedule. You can add additional milestones of your choice as these are examples]
+Milestone	Target
+Organisation and proposal approved	[2/08/2026]
+Content research and sourcing complete	[2/08/2026]
+Sitemap and folder structure finalised	[3/08/2026]
+HTML pages built and content integrated	[4/08/2026]
+Navigation linked and cross-browser tested	[06/08/2026]
+GitHub repository finalised, Part 1 submitted	[10/08/2026
+ 
+8. Budget
+[ Research realistic costs for your specific choices — don't copy the figures used in class examples. ]
+Item	Estimated Cost
+Domain registration	[R60 pa]
+Hosting (annual)	[R708]
+Development	[R0]
+Ongoing maintenance	[R500 pa]
+ 
+9. References
+World Wide Web Consortium (W3C) (2026) Designing for Web Accessibility – Tips for Getting Started. Available at: https://www.w3.org/WAI/tips/designing/ (Accessed: 14 August 2026). 
+World Wide Web Consortium (W3C) (2026) Forms Tutorial. Available at: https://www.w3.org/WAI/tutorials/forms/ (Accessed: 14 August 2026). 
+ World Wide Web Consortium (W3C) (2026) Labeling Controls. Available at: https://www.w3.org/WAI/tutorials/forms/labels/ (Accessed: 14 August 2026). 
+  World Wide Web Consortium (W3C) (2026) Page Structure Tutorial. Available at: https://www.w3.org/WAI/tutorials/page-structure/ (Accessed: 14 August 2026
+
