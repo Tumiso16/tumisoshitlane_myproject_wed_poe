@@ -134,17 +134,7 @@ The website will have a warm, cosy and welcoming look and feel that reflects the
                  |   |   |     Opening Hours
               Coffee Food Drinks
 
-## Technical Requirements
-### Hosting and Domain
-•	Proposed domain name: www.brewandbean.co.za
-This is suitable because it is short, memorable, and clearly relates to a coffee business. The .co.za extension also makes it appropriate for a South African business.
-•	Hosting provider/type: Webtech – Basic Linux Hosting
-Webtech offers shared Linux hosting for approximately R99 per month and includes a free .co.za domain, 5 GB storage, SSL, databases and email accounts. This would be suitable for a small coffee shop website because it provides enough resources for pages such as the home page, menu, about us, contact page and enquiry form. 
-Approximate annual cost: R99 × 12 = R1,188 per year, with the .co.za domain included.
 
-## 	Languages and Frameworks
-•  HTML: Creates the website's content and structure. 
-•	CSS: Styles the website, including colours, fonts, spacing and layout.
 
 ## Timeline and Milestones
 
@@ -156,6 +146,20 @@ Approximate annual cost: R99 × 12 = R1,188 per year, with the .co.za domain inc
 |HTML pages built and content |integrated	[4/08/2026]|
 |Navigation linked and cross-browser| tested	[06/08/2026]|
 |GitHub repository finalised, Part 1| submitted	[10/08/2026|
+
+## Part 1 Details
+Created html pages: about.us.html, contact.html, enquiry.html, index.html, products.html, services.html 
+I used the language css
+I gathered images for the website 
+
+---
+
+## Changelog
+
+|Date| Version| Change Description|
+|---|---|---|
+|18/08/2026| v1.0| Created intial GitHub project repo|
+
  
 
 ## References
