@@ -123,16 +123,28 @@ The website will have a warm, cosy and welcoming look and feel that reflects the
 
 ## Sitemap
 
-                    HOME
-                     |
-       ┌─────────────┼─────────────┐
-       |             |             |
-    ABOUT US       MENU         CONTACT
-       |             |             |
-   Our Story     ┌───┼───┐     Enquiry Form
-   Our Values    |   |   |     Location
-                 |   |   |     Opening Hours
-              Coffee Food Drinks
+                   My Coffee Shop
+│
+└── Home
+    │
+    ├── About Us
+    │   ├── Our Story
+    │   ├── Our Vision
+    │   └── Our Mission
+    │
+    ├── Products
+    │   ├── Coffee
+    │   ├── Cakes & Pastries
+    │   └── Cold Drinks
+    │
+    ├── Enquiry
+    │   └── Enquiry Form
+    │
+    └── Contact
+        ├── Location
+        ├── Phone
+        ├── Email
+        └── Business Hours
 
 
 
@@ -146,11 +158,17 @@ The website will have a warm, cosy and welcoming look and feel that reflects the
 |HTML pages built and content |integrated	[4/08/2026]|
 |Navigation linked and cross-browser| tested	[06/08/2026]|
 |GitHub repository finalised, Part 1| submitted	[10/08/2026|
+|Designing website| completed [1/09/2026]
+|GitHub repository finalised, Part 2|[5/08/2026
 
 ## Part 1 Details
 Created html pages: about.us.html, contact.html, enquiry.html, index.html, products.html, services.html 
 I used the language css
 I gathered images for the website 
+
+### Part 2 Details
+Added images to my website to enhance how it looks.
+Made sure it looks appropriate and looks professional.
 
 ---
 
@@ -159,6 +177,7 @@ I gathered images for the website
 |Date| Version| Change Description|
 |---|---|---|
 |18/08/2026| v1.0| Created intial GitHub project repo|
+|01/09/2026| v2.0| Added changes to my files in my Github|
 
  
 
