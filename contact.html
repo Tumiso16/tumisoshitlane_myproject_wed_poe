@@ -1,55 +1,154 @@
 <!DOCTYPE html>
-<html>
-   <head>
-    <contact>HomePage</contact us>
- </head>
- <body>
-    ><header>>
-        <!-- header represents top section of the website, it contains logo and navigation links mostly -->
-         <div>
-            <!-- div is a divider used to separate parts of the html content -->
-             <h1>logo</h1>
-         </div>
-         <nav>
+<html lang="en">
+
+<head>
+
+    <!-- Defines the document as an HTML5 webpage -->
+    <meta charset="UTF-8">
+
+    <!-- Makes the webpage responsive on different screen sizes -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Sets the title that appears on the browser tab -->
+    <title>Contact Us - My Coffee Shop</title>
+
+    <!-- Connects this HTML page to the external CSS stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+    <!-- Header contains the top section of the webpage -->
+    <header>
+
+        <!-- Nav contains the navigation links used to move between pages -->
+        <nav>
+
+            <!-- Displays the coffee shop logo -->
+            <img src="images/logo.png" alt="Bean and Brew Coffee Shop Logo">
+
+            <!-- Unordered list containing the website navigation links -->
             <ul>
-                <!-- il refers to unorderd list this is usually presented -->
-                 <li>
-                    <!-- li refers to list items, which is a single item in our list -->
-                     <a href="index.html">Home</a>
-                     <!-- a refers to anchor tag,
-                       this respresents a link in your website, 
-                       links can be used to navigate around your website moving from one webpage to another
-                      webpage to anther, you can also use it to navigate to external webpages-->
-                 </li>
-                <li>
-                    <!-- li refers to list items, which is a single item in our list -->
-                     <a href="index.html">Home</a>
-                     <!-- a refers to anchor tag,
-                       this respresents a link in your website, 
-                       links can be used to navigate around your website moving from one webpage to another
-                      webpage to anther, you can also use it to navigate to external webpages-->
-                 </li>
-                 <li>
-                    <a href="about_us.html">About Us</a>
-                   
-                    <li>
 
-                    </li>
-                    <a href="services.html">Our Services</a>
-                    
-                    <li>
+                <!-- Link to the Home page -->
+                <li><a href="index.html">Home</a></li>
 
-                    </li>
-                    <a href="products.html">Our Products</a>
-                    
-                    <li>
+                <!-- Link to the About Us page -->
+                <li><a href="about_us.html">About Us</a></li>
 
-                    </li>
-                    <a href="enquiry.html">About Us</a>
+                <!-- Link to the Products page -->
+                <li><a href="products.html">Products</a></li>
 
-                 </li>
+                <!-- Link to the Enquiry page -->
+                <li><a href="enquiry.html">Enquiry</a></li>
+
+                <!-- Link to the Contact page -->
+                <li><a href="contacts.html">Contact</a></li>
+
             </ul>
-         </nav>
+
+        </nav>
+
     </header>
- </body>
-    
+
+
+    <!-- Main contains the main content of the Contact page -->
+    <main>
+
+        <!-- Introduction section -->
+        <section class="intro">
+
+            <!-- Main heading of the page -->
+            <h1>Contact Us</h1>
+
+            <!-- Short message inviting customers to contact us -->
+            <p>
+                We would love to hear from you.
+                You can contact My Coffee Shop using the details below.
+            </p>
+
+        </section>
+
+
+        <!-- Contact information section -->
+        <section class="featured">
+
+            <!-- Heading for the contact information -->
+            <h2>Get In Touch</h2>
+
+            <div class="products">
+
+                <!-- Address information -->
+                <article class="product-card">
+
+                    <h3>Our Location</h3>
+
+                    <p>
+                        123 Coffee Street<br>
+                        Johannesburg<br>
+                        Gauteng<br>
+                        South Africa
+                    </p>
+
+                </article>
+
+
+                <!-- Telephone information -->
+                <article class="product-card">
+
+                    <h3>Phone</h3>
+
+                    <p>
+                        011 123 4567
+                    </p>
+
+                </article>
+
+
+                <!-- Email information -->
+                <article class="product-card">
+
+                    <h3>Email</h3>
+
+                    <p>
+                        info@mycoffeeshop.co.za
+                    </p>
+
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- Business hours section -->
+        <section class="intro">
+
+            <!-- Heading for business hours -->
+            <h2>Business Hours</h2>
+
+            <!-- Displays the days and opening times -->
+            <p>
+                Monday - Friday: 07:00 - 18:00<br>
+                Saturday: 08:00 - 17:00<br>
+                Sunday: 09:00 - 15:00
+            </p>
+
+        </section>
+
+    </main>
+
+
+    <!-- Footer contains information displayed at the bottom of the webpage -->
+    <footer>
+
+        <!-- Copyright information -->
+        <p>&copy; 2026 My Coffee Shop. All rights reserved.</p>
+
+    </footer>
+
+</body>
+
+</html>
+                   
