@@ -1,4 +1,4 @@
- {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -119,11 +119,31 @@ nav a:hover {
     margin-top: 2rem;
 }
 
+/* Styles each individual product card */
 .product-card {
     background-color: white;
     padding: 2rem;
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Adds a small animation when the visitor moves over a product */
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.18);
+}
+
+/* Adds space below the product name */
+.product-card h3 {
+    margin-bottom: 1rem;
+}
+
+/* Makes the product price stand out */
+.product-card p:last-child {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 1rem;
 }
 
 .product-card h3 {
@@ -163,7 +183,141 @@ footer {
     }
 
 }
+/* Tablet layout */
+@media (min-width: 769px) and (max-width: 1024px) {
 
+    /* Adjusts the navigation spacing for tablets */
+    nav ul {
+        gap: 1rem;
+    }
+
+    /* Makes the main heading slightly smaller on tablets */
+    .hero h1 {
+        font-size: 2.2rem;
+    }
+
+    /* Makes the product cards fit comfortably on a tablet */
+    .products {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    /* Reduces the amount of empty space around sections */
+    .hero,
+    .intro,
+    .featured {
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+
+}
+/* About Us image */
+.about-image {
+    text-align: center;
+    padding: 2rem 5%;
+}
+
+.about-image img {
+    width: 100%;
+    max-width: 800px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    display: block;
+    margin: 0 auto;
+}
+/* Product section images */
+.product-image {
+    text-align: center;
+    margin: 1.5rem 0 2rem;
+}
+
+.product-image img {
+    width: 100%;
+    max-width: 700px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+    display: block;
+    margin: 0 auto;
+}
+/* Enquiry Form */
+form {
+    max-width: 600px;
+    margin: 2rem auto 0;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+    text-align: left;
+}
+
+/* Styles the form labels */
+form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+/* Styles the text boxes and dropdown menu */
+form input,
+form select,
+form textarea {
+    width: 100%;
+    padding: 0.8rem;
+    margin-bottom: 1.2rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+}
+
+/* Allows the message box to be resized vertically */
+form textarea {
+    resize: vertical;
+}
+
+/* Changes the border colour when the visitor clicks a form field */
+form input:focus,
+form select:focus,
+form textarea:focus {
+    outline: none;
+    border-color: #6f4e37;
+}
+
+/* Styles the submit button */
+form button {
+    background-color: #6f4e37;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Changes the button appearance when the visitor moves over it */
+form button:hover {
+    background-color: #3e2723;
+}
+/* Adds space below headings in the introduction sections */
+.intro h2 {
+    margin-bottom: 1rem;
+}
+   
+
+
+
+   
+
+
+
+    
+    
+
+        
+       
     
 
     
